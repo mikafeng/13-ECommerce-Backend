@@ -2,7 +2,20 @@ require('dotenv').config();
 
 const Sequelize = require('sequelize');
 
-
+const sequelize = new Sequelize(
+  // Database name
+  'ecommerce_db',
+  // User
+  'root',
+  // Password
+  '1020&Git',
+  {
+    // Database location
+    host: 'localhost',
+    dialect: 'mysql',
+    port: 3306
+  }
+);
 
 
 // const sequelize = process.env.JAWSDB_URL
