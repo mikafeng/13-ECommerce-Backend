@@ -1,5 +1,5 @@
 # E-Commerce Back-End
-[![License](https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic)]
+![License](https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic)
 
 
 
