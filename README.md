@@ -1,5 +1,7 @@
 # E-Commerce Back-End
-https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic
+[![License](https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic)]
+
+
 
 ## Description
 The back end for an e-commerce site using an Express.js API, configured to use Sequelize with a MySQL database.
