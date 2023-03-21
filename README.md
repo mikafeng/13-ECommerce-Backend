@@ -1,5 +1,5 @@
 # E-Commerce Back-End
-![License](https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic)
+[![License](https://img.shields.io/github/license/mikafeng/13-ECommerce-Backend?style=plastic)](https://badges.mit-license.org/)
 
 
 
@@ -21,4 +21,8 @@ CRUD can be performed on an API platform such as Postman or Insomnia.
 - express
 - mysql2
 - sequilize
+
+## Walkthrough Video
+
+[Drive Link](https://drive.google.com/file/d/1i1LJSemoqv08Qnhbmh1n724CYhLPAX5D/view)
 
